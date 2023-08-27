@@ -1,0 +1,14 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "my first server",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
+  "author": "Prince Gupta is author of this program",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
